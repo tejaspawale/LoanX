@@ -1,0 +1,11 @@
+C:\Users\Shubham\C#\LoanX\LoanX.Services\bin\Debug\net9.0\LoanX.Services.deps.json
+C:\Users\Shubham\C#\LoanX\LoanX.Services\bin\Debug\net9.0\LoanX.Services.dll
+C:\Users\Shubham\C#\LoanX\LoanX.Services\bin\Debug\net9.0\LoanX.Services.pdb
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\LoanX.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\LoanX.Services.AssemblyInfoInputs.cache
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\LoanX.Services.AssemblyInfo.cs
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\LoanX.Services.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\LoanX.Services.dll
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\refint\LoanX.Services.dll
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\LoanX.Services.pdb
+C:\Users\Shubham\C#\LoanX\LoanX.Services\obj\Debug\net9.0\ref\LoanX.Services.dll
