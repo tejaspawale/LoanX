@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoanX.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a9a1a8be5db4fee78edb0a58791f92399de80d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoanX.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoanX.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
